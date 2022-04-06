@@ -1,0 +1,30 @@
+{
+    "name": "Alien # 3",
+    "description": "Knoxs Aliens Sample",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "orange"
+        },
+        {
+            "trait_type": "body",
+            "value": "green"
+        },
+        {
+            "trait_type": "hat",
+            "value": "cowboy"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "fierce"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "targeter"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "red shirt"
+        }
+    ]
+}

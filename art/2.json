@@ -1,0 +1,30 @@
+{
+    "name": "Alien # 2",
+    "description": "Knoxs Aliens Sample",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "yellow"
+        },
+        {
+            "trait_type": "body",
+            "value": "blue"
+        },
+        {
+            "trait_type": "hat",
+            "value": "blue"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "smile"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "targeter"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "hoodie"
+        }
+    ]
+}
